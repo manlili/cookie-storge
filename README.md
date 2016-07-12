@@ -1,0 +1,1 @@
+cookie和html5中localstorge,sessionstorge小测试
